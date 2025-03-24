@@ -1,1 +1,2 @@
 "line 1 of B.txt"
+"line 2 of B.txt"
