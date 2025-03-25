@@ -1,3 +1,4 @@
 "file c 1 line"
 "file c 2 line"
 "file c 3 line"
+"file c 4 line"
